@@ -23,11 +23,12 @@ Esse repositório foi criado com o objetivo de compartilhar minhas soluções im
 
 <p> <strong>
 ✅ --> Finalizado <br>
-❌ --> Não finalizado
+❌ --> Não finalizado <br>
+⏳ --> Em andamento
 
 - Cap 01 - Conceitos Básicos: Teoria📖 <br>
 - Cap 02 - Paradigmas de Programação: Teoria📖 <br>
-- Cap 03 - Estrutura Sequencial: 00/25❌<br>
+- Cap 03 - Estrutura Sequencial: 06/25⏳<br>
 - Cap 04 - Estrutura Condicional: 00/25❌<br>
 - Cap 05 - Estruturas de repetição: 25/25✅ <br>
 - Cap 06 - Vetor: 00/25❌<br>
