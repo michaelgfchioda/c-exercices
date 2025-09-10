@@ -1,15 +1,42 @@
-# C Exercices⚙️
+<h1 align="center"> C Exercices </h1>
 
-Olá, pessoal! Sejam bem-vindos ao meu repertório de exercícios em C!
+<h2> INTRODUÇÂO🌱 </h2>
+<p> <strong>
 
-Esse repertório foi criado com o objetivo de compartilhar minhas soluções implementadas com a linguagem C de exercícios de livros, de exercícios de fóruns, de outras pessoas daqui do GitHub (outros repertórios), sites como LeetCode e Codeforces, por exemplo, entre muitos outros!
+Olá, pessoal! Sejam bem-vindos ao meu repositório de exercícios em C!
 
-- O que esse repositório possui até este momento?
+Esse repositório foi criado com o objetivo de compartilhar minhas soluções implementadas em linguagem C de exercícios de livros, de fóruns, de outros repositórios, do LeetCode, Codeforces, por exemplo, entre muitos outros!
 
-<h2 align="center"> Livros📕 </h2>
+</strong> </p>
 
-<p align="center"> 
-  <strong> Fundamentos da Programação de Computadores - ASCENCIO 
-    <br> Cap 5 - Estruturas de repetição --> Exercícios Propostos: 25/25✅
-  <strong/>
-</p>
+<h2> OBJETIVO🎯 </h2>
+
+<p> <strong>
+
+- Meu objetivo é aprimorar meus conhecimentos, minhas capacidades técnicas e lógicas através de muitos exercícios que me tirarão da minha zona de conforto! Toda essa jornada será compartilhada por meio desse repositório, contando cada passo, cada detalhe, trilhando meu caminho para me tornar um bom profissional!
+</strong> </p>
+
+<h2 align="center"> LIVROS📕 </h2>
+
+<h3> 🟣 Fundamentos da Programação de Computadores - ASCENCIO </h3>
+<h4> EXERCÍCIOS PROPOSTOS: </h4>
+
+<p> <strong>
+✅ --> Finalizado <br>
+❌ --> Não finalizado
+
+- Cap 01 - Conceitos Básicos: Teoria📖 <br>
+- Cap 02 - Paradigmas de Programação: Teoria📖 <br>
+- Cap 03 - Estrutura Sequencial: 00/25❌<br>
+- Cap 04 - Estrutura Condicional: 00/25❌<br>
+- Cap 05 - Estruturas de repetição: 25/25✅ <br>
+- Cap 06 - Vetor: 00/25❌<br>
+- Cap 07 - Matriz: 00/25❌<br>
+- Cap 08 - Sub-rotina (funções): 00/25❌<br>
+- Cap 09 - Strings: 00/25❌<br>
+- Cap 10 - Registro (structs): 00:20❌<br>
+- Cap 11 - Arquivos: 00/25❌<br>
+- Cap 12 - Introdução a Programação Orientada a Objetos: 00/05❌<br>
+- Cap 13 - Desafios: 00/25❌<br>
+
+<strong/> </p>
