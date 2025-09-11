@@ -1,6 +1,6 @@
 <h1 align="center"> C Exercices </h1>
 
-<h2> INTRODUÇÂO🌱 </h2>
+<h2> INTRODUÇÃO🌱 </h2>
 <p> <strong>
 
 Olá, pessoal! Sejam bem-vindos ao meu repositório de exercícios em C!
