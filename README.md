@@ -29,7 +29,7 @@ Esse repositório foi criado com o objetivo de compartilhar minhas soluções im
 - Cap 01 - Conceitos Básicos: Teoria📖 <br>
 - Cap 02 - Paradigmas de Programação: Teoria📖 <br>
 - Cap 03 - Estrutura Sequencial: 19/25⏳<br>
-- Cap 04 - Estrutura Condicional: 00/25❌<br>
+- Cap 04 - Estrutura Condicional: 01/25⏳<br>
 - Cap 05 - Estruturas de repetição: 25/25✅ <br>
 - Cap 06 - Vetor: 00/25❌<br>
 - Cap 07 - Matriz: 00/25❌<br>
