@@ -1,0 +1,20 @@
+🔴 Fundamentos da Programação de Computadores - ASCENCIO
+- EXERCÍCIOS PROPOSTOS:
+
+          | ✅ --> Finalizado     |
+          | ❌ --> Não finalizado |
+          | ⏳ --> Em andamento   |
+
+- Cap 01 - Conceitos Básicos: Teoria📖
+- Cap 02 - Paradigmas de Programação: Teoria📖
+- Cap 03 - Estrutura Sequencial: 25/25✅
+- Cap 04 - Estrutura Condicional: 05/25⏳
+- Cap 05 - Estruturas de repetição: 25/25✅
+- Cap 06 - Vetor: 00/25❌
+- Cap 07 - Matriz: 00/25❌
+- Cap 08 - Sub-rotina (funções): 00/25❌
+- Cap 09 - Strings: 00/25❌
+- Cap 10 - Registro (structs): 00:20❌
+- Cap 11 - Arquivos: 00/25❌
+- Cap 12 - Introdução a Programação Orientada a Objetos: 00/05❌
+- Cap 13 - Desafios: 00/25❌
