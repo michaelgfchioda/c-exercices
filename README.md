@@ -16,15 +16,16 @@ Esse repositório foi criado com o objetivo de compartilhar minhas soluções im
 - Meu objetivo é aprimorar meus conhecimentos, minhas capacidades técnicas e lógicas através de muitos exercícios que me tirarão da minha zona de conforto! Toda essa jornada será compartilhada por meio desse repositório, contando cada passo, cada detalhe, trilhando meu caminho para me tornar um bom profissional!
 </strong> </p>
 
+<!--
 <h2 align="center"> LIVROS📕 </h2>
 
 <h3> 🟣 Fundamentos da Programação de Computadores - ASCENCIO </h3>
 <h4> EXERCÍCIOS PROPOSTOS: </h4>
 
 <p> <strong>
-✅ --> Finalizado <br>
-❌ --> Não finalizado <br>
-⏳ --> Em andamento
+✅ -> Finalizado <br>
+❌ -> Não finalizado <br>
+⏳ -> Em andamento
 
 - Cap 01 - Conceitos Básicos: Teoria📖 <br>
 - Cap 02 - Paradigmas de Programação: Teoria📖 <br>
@@ -41,3 +42,4 @@ Esse repositório foi criado com o objetivo de compartilhar minhas soluções im
 - Cap 13 - Desafios: 00/25❌<br>
 
 <strong/> </p>
+-->
