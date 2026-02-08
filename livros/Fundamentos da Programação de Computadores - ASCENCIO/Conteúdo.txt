@@ -8,7 +8,7 @@
 - Cap 01 - Conceitos Básicos: Teoria📖
 - Cap 02 - Paradigmas de Programação: Teoria📖
 - Cap 03 - Estrutura Sequencial: 25/25✅
-- Cap 04 - Estrutura Condicional: 05/25⏳
+- Cap 04 - Estrutura Condicional: 10/25⏳
 - Cap 05 - Estruturas de repetição: 25/25✅
 - Cap 06 - Vetor: 00/25❌
 - Cap 07 - Matriz: 00/25❌
